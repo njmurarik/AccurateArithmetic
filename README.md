@@ -1,6 +1,6 @@
 # Accurate Arithmetic Methods in Real Floating-Point Arithmetic
 ## Description
-Welcome to the GitHub Repository for my Penn State University Schreyer Honors Thesis on compensated arithmetic. The thesis abstract is outlined below, and I will provide a hyperlink for the open access copy in a future update.
+Welcome to the GitHub Repository for my Penn State University Schreyer Honors Thesis on compensated arithmetic. The thesis itself is available on PSU's [University Libraries](https://honors.libraries.psu.edu/catalog/9402nkm5423).
 
 ## Authors
 * Nathan Murarik
